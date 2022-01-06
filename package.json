@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "@replit/database": "^2.0.1",
     "better-repldb": "^0.5.6",
     "node-fetch": "^2.6.6"
   },
